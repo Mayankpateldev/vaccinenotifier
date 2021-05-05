@@ -87,8 +87,6 @@ async function fetchNext10Days(){
 main(384001)
     .then(() => {console.log('Vaccine availability checker started.');});
 
-main(384002)
+main(385310)
     .then(() => {console.log('Vaccine availability checker started.');});
     
-main(384004)
-.then(() => {console.log('Vaccine availability checker started.');});
