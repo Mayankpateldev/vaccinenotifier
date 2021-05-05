@@ -8,12 +8,13 @@ Step 1) Enable application access on your gmail with steps given here:
 https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor&visit_id=637554658548216477-2576856839&rd=1  
 \
 Step 2) Create and Enter the details in the file .env, present in the same folder
-#Example:
-#PINCODE=201301
-#EMAIL=mytestemail@gmail.com
-#APPLICATION_PASSWORD=askdjklj11aklsj
+\
+\
+#Example: \
+#PINCODE=201301 \
+#EMAIL=mytestemail@gmail.com \
+#APPLICATION_PASSWORD=askdjklj11aklsj \
 #AGE=53
-
 \
 \
 Step 3) On your terminal run: npm i && pm2 start vaccineNotifier.js
